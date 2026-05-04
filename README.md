@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Rimita Ghosh</h1>
+<h1 align="center">👋 Hey, I'm Rimita&nbsp;Ghosh</h1>
 <h3 align="center">A Software Developer and Problem Solver aligned with real-world computing challenges</h3>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB4Zm5ucHJhMG9samk2bXBzdjRnMGZweDdkaDk1MDZ5MDV1ZGlzNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
